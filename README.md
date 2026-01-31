@@ -84,7 +84,7 @@
 ## 🤝 Credits
 
 - **Made by:** [Blur009](https://github.com/Blur009) (Blur.009 on Discord)
-- **Powered by:** [Python](https://www.python.org/), [Pillow](https://python-pillow.org/), [ffmpeg-python](https://github.com/kkroening/ffmpeg-python), [FFmpeg](https://ffmpeg.org/)
+- **Powered by:** [FFmpeg](https://ffmpeg.org/)
 
 ---
 
