@@ -67,7 +67,7 @@
 
 ## 📜 License
 
-This project is licensed under the [](LICENSE).
+This project is licensed under the [GPL-3](LICENSE).
 
 ---
 
