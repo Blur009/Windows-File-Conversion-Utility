@@ -7,8 +7,11 @@ __pycache__/
 *.so
 
 # My Executable
-WFCU*.exe
-WFCU_log.txt
+Engine.exe
+test_audio.*
+resource.rc
+resource.o
+How to build.*
 
 # Distribution / packaging
 ffmpeg/doc/

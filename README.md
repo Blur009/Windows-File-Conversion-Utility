@@ -43,7 +43,32 @@
 
 ## 🛠️ Supported Formats
 
-(table is work in progress :) 
+### 🖼️ Image Formats
+| Format | Extension | Type | Description / Specification |
+| :--- | :--- | :--- | :--- |
+| **JPEG** | `.jpg`, `.jpeg` | Lossy | [Standard digital image format](https://en.wikipedia.org/wiki/JPEG) |
+| **PNG** | `.png` | Lossless | [Portable Network Graphics](https://en.wikipedia.org/wiki/PNG) |
+| **WebP** | `.webp` | Mixed | [Modern format for web transparency](https://developers.google.com/speed/webp) |
+| **AVIF** | `.avif` | Lossy/Lossless | [Next-gen AV1 based compression](https://aomediacodec.github.io/av1-avif/) |
+| **HEIC** | `.heic` | Lossy | [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) |
+| **BMP** | `.bmp` | Uncompressed | [Windows Bitmap](https://en.wikipedia.org/wiki/BMP_file_format) |
+| **TIFF** | `.tiff`, `.tif` | Lossless | [Tagged Image File Format](https://en.wikipedia.org/wiki/TIFF) |
+| **GIF** | `.gif` | Palette | [Graphics Interchange Format](https://en.wikipedia.org/wiki/GIF) |
+| **ICO** | `.ico` | Icon | [Windows Icon Format](https://en.wikipedia.org/wiki/ICO_(file_format)) |
+| **Targa** | `.tga` | Legacy | [Truevision TGA (Gaming standard)](https://en.wikipedia.org/wiki/Truevision_TGA) |
+| **DDS** | `.dds` | Texture | [DirectDraw Surface (DirectX)](https://en.wikipedia.org/wiki/DirectDraw_Surface) |
+
+### 🎵 Audio Formats
+| Format | Extension | Type | Description / Specification |
+| :--- | :--- | :--- | :--- |
+| **MP3** | `.mp3` | Lossy | [MPEG-1 Audio Layer III](https://en.wikipedia.org/wiki/MP3) |
+| **WAV** | `.wav` | Uncompressed | [Waveform Audio File Format](https://en.wikipedia.org/wiki/WAV) |
+| **FLAC** | `.flac` | Lossless | [Free Lossless Audio Codec](https://xiph.org/flac/) |
+| **AAC** | `.aac` | Lossy | [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) |
+| **M4A/ALAC** | `.m4a` | Lossless/Lossy | [Apple Audio Container](https://en.wikipedia.org/wiki/Apple_Lossless_Audio_Codec) |
+| **Opus** | `.opus` | Lossy | [Low-latency web audio](https://opus-codec.org/) |
+| **Ogg Vorbis** | `.ogg` | Lossy | [Free, open container format](https://xiph.org/vorbis/) |
+| **AIFF** | `.aiff` | Uncompressed | [Audio Interchange File Format](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format) |
 
 > *Video support coming soon! (within 10 years)*
 
@@ -51,23 +76,27 @@
 
 ## 📋 To-Do
 
-- [ ] Add video file support 🎬
-- [ ] Custom conversion settings
-- [ ] batch conversion
-- [ ] Prettier error messages
+- Add video file support 🎬
+- Custom conversion settings
 
 ---
 
 ## 🤝 Credits
 
-- **Made by:** [Blur009](https://github.com/Blur009) (aka Luca.jpeg on Discord)
+<<<<<<< HEAD
+- **Made by:** [Blur009](https://github.com/Blur009) (Blur.009 on Discord)
 - **Powered by:** [Python](https://www.python.org/), [Pillow](https://python-pillow.org/), [ffmpeg-python](https://github.com/kkroening/ffmpeg-python), [FFmpeg](https://ffmpeg.org/)
+=======
+- **Made by:** [Blur009](https://github.com/Blur009) (aka Luca.jpeg on Discord)
+- **Powered by:** [FFmpeg](https://ffmpeg.org/)
+>>>>>>> 329fb191d13565790c40728ca51e25c25ea39f20
 
 ---
 
 ## 📜 License
 
 This project is licensed under the [GPL-3](LICENSE).
+This software uses libraries from the FFmpeg project under the GNU General Public License (GPL) v3.0.
 
 ---
 
