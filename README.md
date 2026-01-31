@@ -83,13 +83,8 @@
 
 ## 🤝 Credits
 
-<<<<<<< HEAD
 - **Made by:** [Blur009](https://github.com/Blur009) (Blur.009 on Discord)
 - **Powered by:** [Python](https://www.python.org/), [Pillow](https://python-pillow.org/), [ffmpeg-python](https://github.com/kkroening/ffmpeg-python), [FFmpeg](https://ffmpeg.org/)
-=======
-- **Made by:** [Blur009](https://github.com/Blur009) (aka Luca.jpeg on Discord)
-- **Powered by:** [FFmpeg](https://ffmpeg.org/)
->>>>>>> 329fb191d13565790c40728ca51e25c25ea39f20
 
 ---
 
