@@ -61,13 +61,14 @@
 ## 🤝 Credits
 
 - **Made by:** [Blur009](https://github.com/Blur009) (aka Luca.jpeg on Discord)
-- **Powered by:** [Python](https://www.python.org/), [Pillow](https://python-pillow.org/), [ffmpeg-python](https://github.com/kkroening/ffmpeg-python), [FFmpeg](https://ffmpeg.org/)
+- **Powered by:** [FFmpeg](https://ffmpeg.org/)
 
 ---
 
 ## 📜 License
 
 This project is licensed under the [GPL-3](LICENSE).
+This software uses libraries from the FFmpeg project under the GNU General Public License (GPL) v3.0.
 
 ---
 
