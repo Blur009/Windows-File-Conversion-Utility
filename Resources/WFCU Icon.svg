@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   sodipodi:docname="WFCU Icon.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.2949219"
+     inkscape:cx="255.78213"
+     inkscape:cy="256"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><linearGradient
+       id="linearGradient1"><stop
+         style="stop-color:#72efff;stop-opacity:1;"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop2" /></linearGradient><radialGradient
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="256.13467"
+       cy="257.42068"
+       fx="256.13467"
+       fy="257.42068"
+       r="247.57182"
+       gradientTransform="matrix(1,0,0,0.87365219,0,32.524542)"
+       gradientUnits="userSpaceOnUse" /></defs><path
+     style="fill:url(#radialGradient2);fill-opacity:1"
+     d="M 225.68358,471.37963 C 134.62479,455.91828 56.900581,386.49029 44.610833,309.63443 c -0.897152,-5.61049 -0.897152,-5.61049 -15.885854,-6.01303 -28.99351827,-0.77865 -28.2096019,-3.69072 12.122284,-45.03143 41.326044,-42.35974 33.02961,-42.29525 74.743827,-0.58103 41.48866,41.48865 42.46939,45.92216 10.15843,45.92216 -18.61654,0 -17.90674,-0.89655 -11.32128,14.29989 47.05567,108.58461 192.24605,125.94053 265.86328,31.78104 3.07257,-3.92994 53.77869,11.54871 60.78547,18.55549 4.28032,4.28033 -42.28257,53.58046 -64.46058,68.24995 -44.14345,29.19838 -103.0626,42.69029 -150.93283,34.56216 z M 430.27927,302.42904 c -3.9437,-1.61453 -61.23097,-59.81498 -64.07017,-65.09146 -4.47612,-8.31862 0.85124,-10.98291 22.86531,-11.43529 19.21682,-0.39489 19.21682,-0.39489 17.40967,-7.12237 C 371.85362,89.861215 201.71638,60.106034 128.52967,170.16867 c -3.59621,5.40819 -7.33109,9.83306 -8.29975,9.83306 -1.63662,0 -52.464247,-19.21142 -55.041075,-20.80399 -5.692301,-3.51803 31.524811,-51.1119 54.911735,-70.222048 C 245.32687,-13.350401 441.05401,57.56667 468.63131,215.2575 c 1.80608,10.32745 1.80608,10.32745 15.71931,10.32745 13.33404,0 14.03614,0.15625 16.86558,3.75329 5.38978,6.852 4.56451,8.03904 -28.74224,41.34218 -32.04146,32.03799 -35.37011,34.54257 -42.19469,31.74862 z"
+     id="path1" /></svg>
